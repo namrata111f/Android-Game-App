@@ -4,3 +4,8 @@ An exciting game which is going to test your presence of mind, ability to connec
 The hints are going to be inspired from popular T.V. series and the game is going to be as addictive as 'Gochi'.\
 The protagonist is going to collect clues with each level, utilizing them at the end to solve the case.
 # The game, Mrs. Hudson, is on! 
+Team members-\
+Aanchal Singh\
+Aditi Shreya\
+Namrata Gupta\
+Trishala Naman\
