@@ -8,5 +8,5 @@ Team members-\
 **Aanchal Singh**- task-          *Calendar*\
 **Aditi Shreya**- task-     *Alarm*\
 **Namrata Gupta**- task-      *Calculator*\
-**Trishala Naman**- task-          *Reminder*\
+**Trishala Naman**- task-          *Reminder*
 ### Deadline- 3-10-2019
