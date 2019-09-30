@@ -5,8 +5,8 @@ The hints are going to be inspired from popular T.V. series and the game is goin
 The protagonist is going to collect clues with each level, utilizing them at the end to solve the case.
 # The game, Mrs. Hudson, is on! 
 Team members-\
-Aanchal Singh- task-          Calendar\
-Aditi Shreya- task-     Alarm\
-Namrata Gupta- task-      Calculator\
-Trishala Naman- task-          Reminder\
+**Aanchal Singh**- task-          *Calendar*\
+**Aditi Shreya**- task-     *Alarm*\
+**Namrata Gupta**- task-      *Calculator*\
+**Trishala Naman**- task-          *Reminder*\
 Deadline- 3-10-2019
