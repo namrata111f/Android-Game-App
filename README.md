@@ -6,7 +6,7 @@ The protagonist is going to collect clues with each level, utilizing them at the
 # The game, Mrs. Hudson, is on! 
 Team members-\
 **Aanchal Singh**- task-          *Alarm*\
-**Aditi Shreya**- task-     *Calender*\
+**Aditi Shreya**- task-     *Calendar*\
 **Namrata Gupta**- task-      *Calculator*\
 **Trishala Naman**- task-          *Reminder*
 ### Deadline- 3-10-2019
